@@ -6,7 +6,9 @@ An working example of mongoDB replication with:
 
 ### Usage
 1. Install [Vagrant](www.vagrantup.com)
-2. Do
+2. In the project root do: 
+
     ```bash
     vagrant up
     ```
+
