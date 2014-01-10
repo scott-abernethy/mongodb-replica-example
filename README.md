@@ -5,7 +5,7 @@ An working example of mongoDB replication with:
 - cluster admin and user accounts
 
 ### Usage
-1. Install [Vagrant](www.vagrantup.com)
+1. Install [Vagrant](http://www.vagrantup.com)
 2. In the project root do: 
 
     ```bash
